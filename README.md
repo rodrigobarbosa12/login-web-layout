@@ -3,7 +3,7 @@
   <img src="public/images/Home.png" width="200" title="Home">
 </p>
 
-# Bem-vindo ao Super!
+# Modelo de aplicação web!
 
 # Usage
 ### 1st Step
