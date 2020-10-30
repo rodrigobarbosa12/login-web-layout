@@ -3,7 +3,7 @@
   <img src="public/images/Home.png" width="200" title="Home">
 </p>
 
-# Modelo de aplicação web!
+# Modelo de aplicação web
 
 # Usage
 ### 1st Step
