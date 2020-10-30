@@ -7,12 +7,8 @@
 
 # Usage
 ### 1st Step
-    $ yarn
-    or
-    $ npm install
+    $ yarn | npm install
     
 ### 2nd Step
-    $ yarn start
-    or 
-    npm start
+    $ yarn start | npm start
   
