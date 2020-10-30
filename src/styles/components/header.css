@@ -1,0 +1,33 @@
+
+.header {
+    margin-left: 98px;
+    width: 100vw;
+    padding-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.header span {
+    color: #385898;
+}
+
+.header button {
+    width: 38px;
+    height: 38px;
+
+    border: 0;
+
+    background: #999;
+    border-radius: 10px;
+
+    cursor: pointer;
+
+    transition: background-color 0.2s;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,60 @@
+.sig-in {
+    height: 45vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sig-in form {
+    background-color: #FFF;
+    padding: 70px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.sig-in form input {
+    padding-left: 10px;
+    border: 1px solid #D3E2E5;
+    border-radius: 15px;
+    outline: none;
+    color: #385898;
+    line-height: 48px;
+    width: 332px;
+}
+
+.sig-in form div {
+    margin-bottom: 15px;
+}
+
+.sig-in form label {
+    color: #999;
+}
+
+.sig-in form .form-btn button {
+    cursor: pointer;
+    background-color: #1877f2;
+    color: #FFF;
+    border: none;
+    border-radius: 15px;
+    font-size: 20px;
+    line-height: 48px;
+    width: 332px;
+}
+
+.sig-in form .forgot-password {
+    text-align: center;
+}
+
+.sig-in form .forgot-password a {
+    text-align: center;
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.sig-in form .forgot-password a:hover {
+    color: #385898;
+    text-decoration: underline;
+}

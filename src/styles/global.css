@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #FFF;
+    background-color: #e9ebee;
+}
+
+body, input, button, textarea {
+    font: 60 18px Nunito, sans-serif;
+}
+
+a {
+    color: #385898;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+.btn:focus {
+    outline: thin dotted;
+    outline: 0px auto -webkit-focus-ring-color;
+    outline-offset: 0px;
+}
+
+.box-shadow {
+    box-shadow: 0 0 0 1px #dddfe2;
+}
