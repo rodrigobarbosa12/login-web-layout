@@ -8,7 +8,11 @@
 # Usage
 ### 1st Step
     $ yarn
+    or
+    $ npm install
     
 ### 2nd Step
     $ yarn start
+    or 
+    npm start
   
